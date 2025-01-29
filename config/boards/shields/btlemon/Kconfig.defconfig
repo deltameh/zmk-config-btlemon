@@ -1,4 +1,4 @@
-if SHIELD_LEMTEST
+if SHIELD_BTLEMON
            
 config ZMK_KEYBOARD_NAME
     default "btlemon"
