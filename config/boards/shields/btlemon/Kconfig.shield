@@ -1,3 +1,2 @@
-CONFIG_BT_DEVICE_NAME="btlemon"
 config SHIELD_BTLEMON
     def_bool $(shields_list_contains, btlemon)
